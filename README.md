@@ -26,7 +26,7 @@ This is an eCommerce project that implements basic functionalities such as user 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ecommerce-project.git
+git clone https://github.com/ABIJOSEPHGEORGE/ecommerce-api.git
 ```
 
 2. Install the dependencies:
